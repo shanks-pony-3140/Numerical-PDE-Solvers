@@ -336,7 +336,6 @@ python src/advection_1d_rusanov.py
 python src/advection_2d_central.py
 python src/advection_2d_rusanov.py
 python src/advection_diffusion_1d.py
-python src/diffusion_2d.py
 ```
 
 The generated figures are automatically saved to:
